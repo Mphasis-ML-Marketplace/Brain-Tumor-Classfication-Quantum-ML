@@ -8,7 +8,7 @@ Brain Tumor Classification solution helps to detect type of brain tumor (glioma,
 ## Product Highlight 
 
 * The solution utilizes hybrid classical-quantum architecture to build the model which provides an advantage in the learning process. This advantage arises from the quantum representation of data, and efficient feature extraction. By harnessing quantum capabilities in combination with classical techniques, this hybrid model achieves higher accuracy and robustness on user provided data.
-* The solution used open source MRI data from Kaggle to build the pretrained model. The dataset consists of images of three types of tumors (glioma, meningioma, and pituitary) and some no tumor images. The pretraining process reduces requirement of large amounts of user data to build the model. The solution also supports user specified tumor classification schema. The solution triggers finetuning process using user provided images of tumors along with training parameters and configurations as described in udage information.  
+* The solution used open source MRI data from Kaggle to build the pretrained model. The dataset consists of images of three types of tumors (glioma, meningioma, and pituitary) and some no tumor images. The pretraining process reduces requirement of large amounts of user data to build the model. The solution also supports user specified tumor classification schema. The solution triggers finetuning process using user provided images of tumors along with training parameters and configurations as described in usage information.  
 * Need customized Quantum Computing solutions? Get in touch!
 
 ## Amazon Marketplace Link
