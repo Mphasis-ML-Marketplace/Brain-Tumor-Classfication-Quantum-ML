@@ -12,5 +12,5 @@ Brain Tumor Classification solution helps to detect type of brain tumor (glioma,
 * Need customized Quantum Computing solutions? Get in touch!
 
 ## Amazon Marketplace Link
-The product can be found [here]().
+The product can be found [here](https://aws.amazon.com/marketplace/pp/prodview-rzcivxultagy2).
 
